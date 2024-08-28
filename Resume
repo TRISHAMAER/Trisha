@@ -1,0 +1,85 @@
+<html>
+    <head>
+	
+    </head>
+    <body>
+	
+	<table>
+	<tr>
+		<td colspan="2">  PERSONAL INFORMATION </td>
+		<td rowspan="3"><img src= "img//images//IMG_.jpg"width="100px" height= "100px"/> </td
+ </tr>	
+	  <tr>
+		<td> Name:</td>
+		<td> Trisha Mae A. Repolona</td>
+	  </tr>	
+        <tr>
+        <td> Age:</td>
+        <td> 20</td>
+        </tr>
+            <tr>
+              <td> Sex:</td>
+              <td>Female</td>
+            </tr>
+                <tr>
+		            <td> Contact Number:</td>
+		            <td> 09914572625</td>
+	             </tr>
+                   <tr>
+                   <td> Email Address:</td>
+                   <td> trishamae.repolona09@gmail.com</td>
+                    </tr>
+                        <tr>
+                        <td> Date of Birth:</td>
+                        <td> December 07,2004</td>
+                        </tr>
+                            <tr>
+                            <td> Place of Birth:</td>
+                            <td> Guinobatan,Albay</td>
+                            </tr>
+                                <tr>
+                                <td> Citizenship:</td>
+                                <td> Filipino</td>
+                                </tr>
+                                   <tr>
+                                     <td>Address:</td>
+                                     <td>Inascan,      Guinobatan Albay</td>
+                                    </tr>
+	</table>
+	<br>
+
+	<table>
+	    <tr>
+		<td colspan="2"> OBJECTIVE </td>
+	    </tr>
+	        <tr>
+	          <td>To secure a position that allows me to utilize my skills and grow professionally.</td>
+	        </tr>
+	 </table>
+	 <br>
+
+	<table>
+	    <tr>
+		<td colspan="2"> EDUCATIONAL BACKGROUND </td>
+	    </tr>
+
+	    <tr>
+		<td> College: </td>
+		<td> Bicol University Polangui </td>
+	    </tr>
+
+	    <tr>
+		<td> High School: </td>
+		<td> Marcial O. Rañola Memorial School </td>
+	    </tr>
+
+	    <tr>
+		<td> Elementary: </td>
+		<td> Inascan Elementary School </td>
+	    </tr>
+	    
+	</table>
+	
+	<hr>
+    </body>
+</html>
